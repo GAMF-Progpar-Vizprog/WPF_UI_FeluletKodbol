@@ -4,7 +4,7 @@ using System.Windows.Controls.Primitives;
 using System.Drawing;
 using System.Windows.Media;
 
-namespace WPF_Kodbol
+namespace WPF_UI_FeluletKodbol
 {
 	/// <summary>
 	/// Ha egynél több komponenst akarunk elhelyezni az ablakon, akkor

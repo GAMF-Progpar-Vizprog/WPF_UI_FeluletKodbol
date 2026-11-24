@@ -1,7 +1,7 @@
-﻿<Application x:Class="WPF_Kodbol.App"
+﻿<Application x:Class="WPF_UI_FeluletKodbol.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:WPF_Kodbol"
+             xmlns:local="clr-namespace:WPF_UI_FeluletKodbol"
              StartupUri="wndAblak.xaml">
     <Application.Resources>
          
